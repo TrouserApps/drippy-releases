@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 1.2.0</title>
             <description><![CDATA[
-                <h2>Drippy 1.1.0</h2>
-                <p>Updated colors to contrast well in both light & dark mode; added a quick training screen to help you get used to interacting with Drippy. Thank you for using Drippy and for drinking more water!</p>
+                <h2>Drippy 1.2.0</h2>
+                <p>Drippy now squeezes out of the menu bar icon more precisely. Drippy loves you.</p>
             ]]></description>
             <pubDate>Wed, 26 Feb 2026 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-            url="https://github.com/TrouserApps/drippy-releases/releases/download/v1.1.0/Drippy-1.1.0.zip"
-            sparkle:version="2"
-            sparkle:shortVersionString="1.1.0"
-            sparkle:edSignature="2KKavG+uIrwI3/gXW9Lwqf01VgDfW8Z/pemf8DzjAimqYJnrMczZsPwmGgMp+oSXKAVjlWZqfuEFK2i5JUtsDg=="
-            length="7130742"
+            url="https://github.com/TrouserApps/drippy-releases/releases/download/v1.2.0/Drippy-1.2.0.zip"
+            sparkle:version="3"
+            sparkle:shortVersionString="1.2.0"
+            sparkle:edSignature="rRgctCju8dKvbOJxeZOpsHVpb+xXLOibIoUKfM1u29Fx1+k1T2Y3f/jl0LVjhNlCPaOH7uJV6dEtoKBoapvFAA=="
+            length="7133122"
             type="application/octet-stream"
             />
         </item>
