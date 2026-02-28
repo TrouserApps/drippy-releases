@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 2.0.0</title>
             <description><![CDATA[
-                <h2>Drippy 1.2.0</h2>
-                <p>Drippy now squeezes out of the menu bar icon more precisely. Drippy loves you.</p>
+                <h2>Drippy 2.0.0</h2>
+                <p>Hi! Drippy here! I fixed an app update mechanism issue I was having, as well as a reminder timing issue. Good thing I'm so cute and helpful, right? Thanks for being my friend!</p>
             ]]></description>
-            <pubDate>Wed, 26 Feb 2026 12:00:00 +0000</pubDate>
+            <pubDate>Thu, 27 Feb 2026 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-            url="https://github.com/TrouserApps/drippy-releases/releases/download/v1.2.0/Drippy-1.2.0.zip"
-            sparkle:version="3"
-            sparkle:shortVersionString="1.2.0"
-            sparkle:edSignature="rRgctCju8dKvbOJxeZOpsHVpb+xXLOibIoUKfM1u29Fx1+k1T2Y3f/jl0LVjhNlCPaOH7uJV6dEtoKBoapvFAA=="
-            length="7133122"
+            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.0.0/Drippy-2.0.0.zip"
+            sparkle:version="4"
+            sparkle:shortVersionString="2.0.0"
+            sparkle:edSignature="AB3etrpEGH87kwOG4ty1jOiu6rlyqYL54w3/c6sz3bbB/Y1sr/CEJ38PbSywV5ivMxZAjoAFS2V4fLXfnCS/AA=="
+            length="7185053"
             type="application/octet-stream"
             />
         </item>
