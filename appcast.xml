@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 2.0.0</title>
+            <title>Version 2.0.1</title>
             <description><![CDATA[
-                <h2>Drippy 2.0.0</h2>
-                <p>Hi! Drippy here! I fixed an app update mechanism issue I was having, as well as a reminder timing issue. Good thing I'm so cute and helpful, right? Thanks for being my friend!</p>
+                <h2>Drippy 2.0.1</h2>
+                <p>Hi, it's me, Drippy! I used to do my drip animation while your screen was locked, meaning you'd never actually see it if you were away from your computer! In this update, I now wait for you to come back first, then WOW you with my free-fall. I also made it easier to delete your hydration entries, in case you accidentally logged one and need to undo it. K love you bye!</p>
             ]]></description>
             <pubDate>Thu, 27 Feb 2026 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.0.0/Drippy-2.0.0.zip"
-            sparkle:version="4"
-            sparkle:shortVersionString="2.0.0"
-            sparkle:edSignature="AB3etrpEGH87kwOG4ty1jOiu6rlyqYL54w3/c6sz3bbB/Y1sr/CEJ38PbSywV5ivMxZAjoAFS2V4fLXfnCS/AA=="
-            length="7185053"
+            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.0.1/Drippy-2.0.1.zip"
+            sparkle:version="5"
+            sparkle:shortVersionString="2.0.1"
+            sparkle:edSignature="6iESIf9EYzL6rd290cwMY+ld0K2ryuhftmwHFCWn+h7g2yzgOzG83y9mmicN9SPdLJjvF1vX/GiCHm2e00v7AQ=="
+            length="7193062"
             type="application/octet-stream"
             />
         </item>
