@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 2.0.2</title>
+            <title>Version 2.0.3</title>
             <description><![CDATA[
-                <h2>Drippy 2.0.2</h2>
-                <p>Hi, it's me, Drippy! I used to do my drip animation while your screen was locked, meaning you'd never actually see it if you were away from your computer! In this update, I now wait for you to come back first, then WOW you with my free-fall. I also made it easier to delete your hydration entries, in case you accidentally logged one and need to undo it. K love you bye!</p>
+                <h2>Drippy 2.0.3</h2>
+                <p>Newly polished Drippy character because we need Drippy looking Drippy</p>
             ]]></description>
             <pubDate>Thu, 27 Feb 2026 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.0.2/Drippy-2.0.2.zip"
-            sparkle:version="6"
-            sparkle:shortVersionString="2.0.2"
-            sparkle:edSignature="h4wjOCnjC53ZZ+C7kL/DaY75Vtk2kV0s990ckiYd01PLm4V+9C9aHXnVVLql6viOypaY2s0yhhjpMGzFbU40CA=="
-            length="7193242"
+            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.0.3/Drippy-2.0.3.zip"
+            sparkle:version="7"
+            sparkle:shortVersionString="2.0.3"
+            sparkle:edSignature="m97jlfYu01eFGZLZmNpGIzUXypQIXK+VQ9tQsRtME7wntXfnA5Umy/t41zlY6Wv2JSc52SK/3J7Dq8ObtkdOBA=="
+            length="2610233"
             type="application/octet-stream"
             />
         </item>
