@@ -4,20 +4,20 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 2.2.0</title>
+            <title>Version 2.2.1</title>
             <description><![CDATA[
-                <h2>Drippy 2.2.0</h2>
-                <p>Drippy brought a friend! Meet Sippy! You can now choose your Drippy in settings. Have fun!</p>
+                <h2>Drippy 2.2.1</h2>
+                <p>We fixed an issue where a couple of your settings would get reset after updating to a new version of Drippy. We apologize if that happened to you! So you may want to check your reminder style and jumbo drippy toggle setting. Thank you for your patience and support!</p>
             ]]></description>
-            <pubDate>Thu, 27 Feb 2026 12:00:00 +0000</pubDate>
+            <pubDate>Wed, 04 Mar 2026 15:36:07 -0700</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.2.0/Drippy-2.2.0.zip"
-            sparkle:version="9"
-            sparkle:shortVersionString="2.2.0"
-            sparkle:edSignature="vS7wU6mktw9DovEbGC/aQszZhJla5CrbsgLvuI6kybmpAysZ95NygKwenESF6hO+9gn9uDzU690V8FStsX4JAw=="
-            length="2789244"
-            type="application/octet-stream"
+                url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.2.1/Drippy-2.2.1.zip"
+                sparkle:version="10"
+                sparkle:shortVersionString="2.2.1"
+                sparkle:edSignature="R+K8N3Bfa5o/WioFPWM7cKpvgbqbyApuv6GXxXFlPTUk/ImVACimDDOkbc9l5DBDyKx6TxHG5TS85LQafdMvBA=="
+                length="2781450"
+                type="application/octet-stream"
             />
         </item>
     </channel>
