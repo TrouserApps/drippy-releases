@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 2.1.0</title>
+            <title>Version 2.2.0</title>
             <description><![CDATA[
-                <h2>Drippy 2.1.0</h2>
-                <p>Hi, Drippy here again! In this update, I've fixed a sneaky issue where sometimes I wasn't able to drip to remind you. I apologize for that. And remember, everything I do, I do it for you. I'm so glad we're friends!</p>
+                <h2>Drippy 2.2.0</h2>
+                <p>Drippy brought a friend! Meet Sippy! You can now choose your Drippy in settings. Have fun!</p>
             ]]></description>
             <pubDate>Thu, 27 Feb 2026 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.1.0/Drippy-2.1.0.zip"
-            sparkle:version="8"
-            sparkle:shortVersionString="2.1.0"
-            sparkle:edSignature="xOx2z11CdjF5IKcJF0a3VF/i0JBn2Jzj0UW9hX8wcvBH89bfcNghn7nNRvhigiE9ctlECKlCbUvSj9CFFsO7AA=="
-            length="2611270"
+            url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.2.0/Drippy-2.2.0.zip"
+            sparkle:version="9"
+            sparkle:shortVersionString="2.2.0"
+            sparkle:edSignature="vS7wU6mktw9DovEbGC/aQszZhJla5CrbsgLvuI6kybmpAysZ95NygKwenESF6hO+9gn9uDzU690V8FStsX4JAw=="
+            length="2789244"
             type="application/octet-stream"
             />
         </item>
