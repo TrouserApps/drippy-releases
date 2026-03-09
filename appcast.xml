@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 2.2.1</title>
+            <title>Version 2.2.2</title>
             <description><![CDATA[
-                <h2>Drippy 2.2.1</h2>
-                <p>We fixed an issue where a couple of your settings would get reset after updating to a new version of Drippy. We apologize if that happened to you! So you may want to check your reminder style and jumbo drippy toggle setting. Thank you for your patience and support!</p>
+                <h2>Drippy 2.2.2</h2>
+                <p>Hey friends! Here's a fresh tune-up to keep things running smooth 💧<br/><br/>• Fixed a rare bug where Drippy could get stuck in the menu bar during a drip animation; no more frozen Drippys hanging around!<br/>• Improved behind-the-scenes reliability so Drippy plays nicer with modern macOS<br/><br/>stay hydrated! 💙</p>
             ]]></description>
-            <pubDate>Wed, 04 Mar 2026 15:36:07 -0700</pubDate>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <pubDate>Mon, 09 Mar 2026 14:32:01 -0600</pubDate>
+            <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.2.1/Drippy-2.2.1.zip"
-                sparkle:version="10"
-                sparkle:shortVersionString="2.2.1"
-                sparkle:edSignature="R+K8N3Bfa5o/WioFPWM7cKpvgbqbyApuv6GXxXFlPTUk/ImVACimDDOkbc9l5DBDyKx6TxHG5TS85LQafdMvBA=="
-                length="2781450"
+                url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.2.2/Drippy-2.2.2.zip"
+                sparkle:version="11"
+                sparkle:shortVersionString="2.2.2"
+                sparkle:edSignature="kDi8nPmNHDbrrtTeVoPceP+Csg+F//gL/nl9Gn2x1DSNCVMM+MO+CnCPmFgm9GaaSZC4PcC5mxJgpaAoXWW8DA=="
+                length="2755495"
                 type="application/octet-stream"
             />
         </item>
