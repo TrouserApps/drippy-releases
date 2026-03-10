@@ -4,19 +4,19 @@
         <title>Drippy Updates</title>
         <language>en</language>
         <item>
-            <title>Version 2.2.2</title>
+            <title>Version 2.3.0</title>
             <description><![CDATA[
-                <h2>Drippy 2.2.2</h2>
-                <p>Hey friends! Here's a fresh tune-up to keep things running smooth 💧<br/><br/>• Fixed a rare bug where Drippy could get stuck in the menu bar during a drip animation; no more frozen Drippys hanging around!<br/>• Improved behind-the-scenes reliability so Drippy plays nicer with modern macOS<br/><br/>stay hydrated! 💙</p>
+                <h2>Drippy 2.3.0</h2>
+                <p>Click Drippy's menu bar icon and you'll see a brand new quick-action popover. Log your rehydration, or even click skip if you absolutely need to. Sometimes we just can't get to our water right away, so now, whenever a reminder is active, a Skip button appears alongside Log so you can dismiss without logging. No guilt, Drippy &amp; Sippy understand.<br/><br/>No more remembering left-click vs right-click. Everything lives in the same popover each time you click the menu bar icon. Simple.<br/><br/>We fixed an issue where Drippy could cause the system to become unresponsive after being left unattended overnight. Animations now pause when the screen locks and resume when you return. The app also releases system resources after 5 minutes instead of holding them indefinitely.<br/><br/>Reminder intervals now have a 30-minute minimum.<br/><br/>Fixed a bug where "Launch on startup" could appear enabled but wasn't actually registered with the system.<br/><br/>The settings popover now properly activates so it looks crisp and focused instead of washed out.<br/><br/>Pheww! That was a lot! We need to get some water after reading all of that!</p>
             ]]></description>
-            <pubDate>Mon, 09 Mar 2026 14:32:01 -0600</pubDate>
+            <pubDate>Tue, 10 Mar 2026 13:30:54 -0600</pubDate>
             <sparkle:minimumSystemVersion>26.2</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.2.2/Drippy-2.2.2.zip"
-                sparkle:version="11"
-                sparkle:shortVersionString="2.2.2"
-                sparkle:edSignature="kDi8nPmNHDbrrtTeVoPceP+Csg+F//gL/nl9Gn2x1DSNCVMM+MO+CnCPmFgm9GaaSZC4PcC5mxJgpaAoXWW8DA=="
-                length="2755495"
+                url="https://github.com/TrouserApps/drippy-releases/releases/download/v2.3.0/Drippy-2.3.0.zip"
+                sparkle:version="12"
+                sparkle:shortVersionString="2.3.0"
+                sparkle:edSignature="2SyyF0wPHSlgjW5YIa4pM2F/xTiz6kL9SgxR4eBTC7B60yzIkDycYu8jL4e+n0A+vn+ZcZUhRwGB4NOCXvYoBw=="
+                length="2760974"
                 type="application/octet-stream"
             />
         </item>
